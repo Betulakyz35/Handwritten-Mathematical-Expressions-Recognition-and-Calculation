@@ -1,4 +1,4 @@
-# Handwritten-Mathematical-Expressions-Recognition-and-Calculation
+# Handwritten-Mathematical-Expressions-Recognition-and-Calculation (OCR PROJECT)
 
 This project, titled ‘Handwritten Mathematical Expression Recognition and Calculation,’ was developed jointly with our colleagues at Gaziosmanpaşa University in Tokat as part of a course.
 
